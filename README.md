@@ -34,4 +34,4 @@ GitHub: [https://github.com/andersonmares](https://github.com/andersonmares)
 
 LinkedIn: [Anderson Oliveira](https://www.linkedin.com/in/anderson-alves-de-oliveira-a3376521/)
 
-Twitter – [@andersonmares](https://twitter.com/dbader_org)
+Twitter – [@andersonmares](https://twitter.com/andersonmares)
