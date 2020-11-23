@@ -4,12 +4,13 @@
 
 Esta API está usando as seguintes tecnologias:
 
-* Java 11
-* Spring Boot
-* JPA
-* Hibernate
-* Apache Maven
-* Banco de Dados H2
+* [Java Development Kit (JDK 11)](https://docs.oracle.com/en/java/javase/11/)
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+* [Hibernate](https://hibernate.org/orm/documentation/)
+* [Apache Maven](https://maven.apache.org/guides/index.html)
+* [Banco de Dados H2](https://www.h2database.com/html/main.html)
+* [Travis CI](https://docs.travis-ci.com/)
 
 <br>
 
@@ -26,6 +27,11 @@ mvnw spring-boot:run
 
 
 #### Contato:
-Anderson Oliveira – [@andersonmares](https://twitter.com/dbader_org) – andersonmares@gmail.com
 
-[https://github.com/andersonmares](https://github.com/andersonmares)
+E-mail: [andersonmares@gmail.com](andersonmares@gmail.com)
+
+GitHub: [https://github.com/andersonmares](https://github.com/andersonmares)
+
+LinkedIn: [Anderson Oliveira](https://www.linkedin.com/in/anderson-alves-de-oliveira-a3376521/)
+
+Twitter – [@andersonmares](https://twitter.com/dbader_org)
