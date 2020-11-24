@@ -1,6 +1,5 @@
 package br.com.petz.model;
 
-import com.sun.istack.NotNull;
 import lombok.*;
 
 import javax.persistence.*;

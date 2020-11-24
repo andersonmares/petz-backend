@@ -12,3 +12,7 @@ INSERT INTO telefone (tipo, numero, id_cliente) VALUES ('CEL', '61981913797', 1)
 INSERT INTO telefone (tipo, numero, id_cliente) VALUES ('RES', '6132331545', 2);
 INSERT INTO telefone (tipo, numero, id_cliente) VALUES ('COM', '6132334411', 2);
 INSERT INTO telefone (tipo, numero, id_cliente) VALUES ('RES', '6132334411', 3);
+
+INSERT INTO pet (nome, especie, raca_especie, idade) VALUES ('Toto', 'Cachorro', 'N/A', 10);
+INSERT INTO pet (nome, especie, raca_especie, idade) VALUES ('Enzo', 'Cachorro', 'Shitzu', 5);
+INSERT INTO pet (nome, especie, raca_especie, idade) VALUES ('Valentina', 'Peixe', 'Acara bandeira', 4);
